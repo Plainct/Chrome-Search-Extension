@@ -28,4 +28,4 @@ document.getElementById('search-input').addEventListener('keyup', function(event
   }
 });
 
-document.getElementById('search-btn').addEventListener('click', search);
+document.getElementById('search-button').addEventListener('click', search);
