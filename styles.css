@@ -23,7 +23,20 @@ button {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  float: left;
+
+
+  margin-right: 10px; /* 可选，如果希望按钮之间有间距 */
+
 }
 #search-yahoo{
 	background-color: #ff0000;
 }
+.button-container {
+	display: flex;
+	float: left;
+	position: relative;
+
+  }
+
+  
