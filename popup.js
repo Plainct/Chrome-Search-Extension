@@ -11,6 +11,7 @@ function search() {
     window.open(url1, '_blank');
     window.open(url2, '_blank');
     window.open(url3, '_blank');
+    window.open(url4, '_blank');
     window.open(url5, '_blank');
   }
 }
